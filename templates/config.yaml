@@ -1,0 +1,4 @@
+default:
+        extension: .myclirc
+        output: colors
+
